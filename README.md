@@ -1,5 +1,5 @@
-;# Herbert-Chope--2
-;End of Semester project
+# Herbert-Chope+-2
+End of Semester project
 #lang racket
 
 (require net/url)
